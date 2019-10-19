@@ -1,0 +1,116 @@
+body{
+    background: linear-gradient(45deg, #dd2476, #ff512f);
+    font-family: Arial, sans-serif
+}
+.form{
+    position: relative;
+    background: #ffffff;
+    width: 464px;
+    height:471px ;
+    margin: auto;
+    margin-top: 20%;
+    margin-bottom: 20%
+
+}
+.signupicon{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-top: 30px;
+    margin-left: 31px
+}
+.title{
+    position: absolute;
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 30px;
+    margin-left: 66px;
+}
+.title2{
+    position: absolute;
+    margin-left: 31px;
+    margin-top: 70px;
+    margin-right: 30px;
+    font-size: 13px;
+    color: #7a7b7f;
+    line-height: 20px
+}
+.firstname{
+    position: absolute;
+    margin-left: 31px;
+    margin-top: 137px;
+    width: 180px;
+    height: 40px;
+    background: #f0f0f0;
+    color: #7a7b7f;
+    font-size: 14px;
+    padding-left: 16px;
+    border: none;
+    border-radius: 4px
+}
+.lastname{
+    position: absolute;
+    margin-left: 238px;
+    margin-right: 31px;
+    margin-top: 137px;
+    width: 180px;
+    height: 40px;
+    background: #f0f0f0;
+    color: #7a7b7f;
+    font-size: 14px;
+    padding-left: 16px;
+    border: none;
+    border-radius: 4px
+}
+.email{
+    position: absolute;
+    margin-left: 31px;
+    margin-right: 31px;
+    margin-top: 193px;
+    width: 388px;
+    height: 40px;
+    background: #f0f0f0;
+    color: #7a7b7f;
+    font-size: 14px;
+    padding-left: 16px;
+    border: none;
+    border-radius: 4px
+}
+.password{
+    position: absolute;
+    margin-left: 31px;
+    margin-right: 31px;
+    margin-top: 248px;
+    width: 388px;
+    height: 40px;
+    background: #f0f0f0;
+    color: #7a7b7f;
+    font-size: 14px;
+    padding-left: 16px;
+    border: none;
+    border-radius: 4px
+}
+.sendbutton{
+    position: absolute;
+    background: #ea355a;
+    color: white;
+    margin-left: 31px;
+    margin-right: 31px;
+    margin-top: 302px;
+    width: 388px;
+    height: 50px;
+    border: none;
+    border-radius: 4px;
+    box-shadow: 0px 3px #bd1962;
+    font-size: 18px;
+    font-weight: bold
+}
+.policy{
+    position: absolute;
+    margin-left: 31px;
+    margin-top: 378px;
+    margin-right: 30px;
+    font-size: 13px;
+    color: #7a7b7f;
+    line-height: 20px
+}
